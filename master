@@ -1,0 +1,44 @@
+[
+
+  {
+    "name": "Shubham Shukla",
+    "dateOfBirth": "27/09/10",
+    "email": "shubham@gmail.com",
+    "standard": "6",
+    "parentName": "Santosh Shukla",
+    "contact": "9999999999"
+  },
+  {
+    "name": "Yash Pandey",
+    "dateOfBirth": "28/05/10",
+    "email": "yash@gmail.com",
+    "standard": "6",
+    "parentName": "Vinod Pandey",
+    "contact": "9999887999"
+  },
+  {
+    "name": "Ishan Bhosle",
+    "dateOfBirth": "05/12/10",
+    "email": "ishan@gmail.com",
+    "standard": "6",
+    "parentName": "Mahesh Bhosle",
+    "contact": "9999976799"
+  },
+  {
+    "name": "Shashank Dubey",
+    "dateOfBirth": "17/06/10",
+    "email": "shashank@gmail.com",
+    "standard": "6",
+    "parentName": "Rajendra Dubey",
+    "contact": "9999765999"
+  },
+  {
+    "name": "Priya Sahu",
+    "dateOfBirth": "07/10/10",
+    "email": "priya@gmail.com",
+    "standard": "6",
+    "parentName": "Akash Sahu",
+    "contact": "9932499999"
+  }
+
+]
